@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <head>
   <title>Home</title>
+  <meta charset="utf-8">
 </head>
 <body style="background-color: black">
   <?php include 'h.e.a.d.php';?>
