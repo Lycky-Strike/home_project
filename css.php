@@ -1,10 +1,11 @@
 <style>
 ul.css-menu-3 {
 list-style: none;
-border-bottom: 5px solid black;
-border-top: 5px solid white;
-padding: 11px 11px 16px 11px;
-background: white
+padding: 16px 11px 16px 11px;
+/*background: url(/art/menu.png); /* Цвет фона и путь к файлу */
+background-color: rgba(0, 0, 0, 0.5);
+color: #fff; /* Цвет текста */
+background-size: 100%  no-repid
 }
 
 ul.css-menu-3 li {
@@ -12,9 +13,10 @@ display: inline
 }
 
 ul.css-menu-3 li a {
-color: #fefefe;
 text-decoration: none;
-background: black;
+/*background: url(/art/menu.jpg); /* Цвет фона и путь к файлу */
+color: #fff; /* Цвет текста */
+background-size: 100%;
 border: 1px solid white;
 border-bottom: 1px solid white;
 margin: 0;
