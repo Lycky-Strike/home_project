@@ -27,7 +27,10 @@
   <?php include 'h.e.a.d.php';?>
   <div  class="transparent">
 <div style="margin-left: 50px; margin-right: 50px;">
-
+<h2 align="center">Наша команда на данный момент:</h2>
+<p><b>Саня</b> - главный батя проекта</p>
+<p><b>Костян</b> - джун, объясняет мне программирование</p>
+<p><b>Мишаня </b>- джун, впитавыет информацию, написал данный сайт</p>
 </div>
 </div>
 </body>
